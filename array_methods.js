@@ -1,0 +1,11 @@
+var arr=[1,2,3,4,5,6,7,8];
+var c=[100,50,189];
+console.log(arr.join(' | '));
+console.log(arr);
+console.log(arr.concat(c));
+console.log(c.fill('fahim'));
+console.log(Array.isArray(c));
+var d=Array.from(c);
+console.log(d);
+d[0]='gg';
+console.log(d);

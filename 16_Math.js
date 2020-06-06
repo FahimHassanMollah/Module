@@ -1,0 +1,12 @@
+console.log(Math.E);
+var a=2.6;
+console.log(a);
+console.log(Math.abs(a));
+console.log(Math.floor(a));
+console.log(Math.ceil(a));
+console.log(Math.round(a));
+console.log(Math.max(10001, 200, .05, 670, 1000));
+console.log(Math.min(10001, 200, .05, 670, 1000));
+console.log(Math.sqrt(64));
+console.log(Math.pow(2, 2));
+console.log(Math.round((Math.random()*10+1))) ;
